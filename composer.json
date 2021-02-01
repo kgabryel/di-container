@@ -1,0 +1,15 @@
+{
+  "name": "frankie/di-container",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\DIContainer\\": "src",
+      "Frankie\\DIContainer\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.3"
+  }
+}
